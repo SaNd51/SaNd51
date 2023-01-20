@@ -5,7 +5,7 @@
 - 💵 Em busca de oportunidades
 - ✍️ Estou estudando python
 
-  <!--img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaNd51&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" /-->
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaNd51&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
   
 
 ### Habilidades:
