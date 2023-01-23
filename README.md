@@ -1,14 +1,21 @@
-### Olá Mundo👋
+### HELLO WORLD!👋
 
-### Sou Sander
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=1000&color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ%2C+BEM+VINDO!;EU+SOU+SANDER+LUAN)](https://git.io/typing-svg)
+
+<div align="center"> 
+
+<img width="44%" height="170px" src="https://github-readme-stats.vercel.app/api?&username=SaNd51&theme=midnight-4B0082&show_icons=true" /> 
+<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaNd51&layout=compact&theme=midnight-4B0082&show_icons=true" />
+
+</div>
+
+### Sobre
 - 👨‍💻 Estudante de ciências da computação
 - 💵 Em busca de oportunidades
 - ✍️ Estou estudando python
 
 
-  
-
-### Habilidades:
+### Habilidades
 
  <div style="display: inline_block"> <br>
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +24,7 @@
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    </div>
 
-##
+## 
 <div>
   <a href = "https://www.instagram.com/sndrxz_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sander-luan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
