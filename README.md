@@ -4,8 +4,8 @@
 
 <div align="center"> 
 
-<img width="44%" height="170px" src="https://github-readme-stats.vercel.app/api?&username=SaNd51&theme=midnight-4B0082&show_icons=true" /> 
-<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaNd51&layout=compact&theme=midnight-4B0082&show_icons=true" />
+<img width="44%" height="20%" src="https://github-readme-stats.vercel.app/api?&username=SaNd51&theme=midnight-4B0082&show_icons=true" /> 
+<img width="44%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaNd51&layout=compact&theme=midnight-4B0082&show_icons=true" />
 
 </div>
 
