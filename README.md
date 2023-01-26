@@ -3,9 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=1000&color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ%2C+BEM+VINDO!;EU+SOU+SANDER+LUAN)](https://git.io/typing-svg)
 
 <div align="center"> 
-<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SaNd51&show_icons=true&theme=radical" />
 
+<picture>
+ <img width="35%" src="https://github-readme-stats.vercel.app/api?username=SaNd51&show_icons=true&theme=transparent&title_color=836FFF&text_color=483D8B&icon_color=00BFFF" />
+</picture>
+<picture>
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaNd51&layout=compact&show_icons=true&theme=transparent&title_color=836FFF&text_color=483D8B&icon_color=00BFFF" />
+</picture>
 </div>
+
+
 
 ### Sobre
 - 👨‍💻 Estudante de ciências da computação
