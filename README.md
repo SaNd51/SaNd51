@@ -5,10 +5,10 @@
 <div align="center"> 
 
 <picture>
- <img width="38%" src="https://github-readme-stats.vercel.app/api?username=SaNd51&show_icons=true&theme=transparent&title_color=836FFF&text_color=483D8B&icon_color=00BFFF" />
+ <img width="40%" src="https://github-readme-stats.vercel.app/api?username=SaNd51&show_icons=true&theme=transparent&title_color=836FFF&text_color=483D8B&icon_color=00BFFF" />
 </picture>
 <picture>
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaNd51&layout=compact&show_icons=true&theme=transparent&title_color=836FFF&text_color=483D8B&icon_color=00BFFF" />
+ <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaNd51&layout=compact&show_icons=true&theme=transparent&title_color=836FFF&text_color=483D8B&icon_color=00BFFF" />
 </picture>
 </div>
 
